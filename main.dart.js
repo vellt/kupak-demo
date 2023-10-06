@@ -53994,7 +53994,7 @@ $1(a){var s,r,q=null
 if(!a.ay)return new A.z7(q)
 else{s=a.ch
 r=A.afZ(q,q,new A.iD("images/bottlecap_"+s+".png",q,q))
-s=s===10?$.alk[a.CW]:""
+s=s===10?$.alk[a.CW].toUpperCase():""
 return A.a6t(A.x3(q,A.wB(A.a1S(q,A.UJ(B.dH,A.a([new A.pA(r,300,B.dO,q),A.x3(q,A.wB(new A.Cb(s,q,A.alr().$3$color$fontSize$fontWeight(A.bx(255,46,71,47),20,B.cA),B.du,q),q,q),q,q,q,300,q,new A.bA(55,55,55,55),300)],t.nA),B.fg),B.b7,!1,q,q,q,q,q,q,q,q,q,q,q,q,q,q,new A.OZ(a),q,q,q),q,q),q,q,new A.fy(q,A.a4G(B.dO,new A.iD("images/background.jpg",q,q)),q,q,q,q,B.b_),1/0,q,q,1/0))}},
 $S:322}
 A.OZ.prototype={
